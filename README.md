@@ -1,6 +1,6 @@
 # doc-bot
 
-[![npm version](https://img.shields.io/npm/v/@afterxleep/doc-bot)](https://www.npmjs.com/package/@afterxleep/doc-bot)
+[![npm version](https://img.shields.io/npm/v/@afterxleep/doc-bot)](https://www.npmjs.com/package/@after keep/doc-bot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An intelligent MCP (Model Context Protocol) server that gives AI assistants like Claude and Cursor deep understanding of your project through smart documentation management.
