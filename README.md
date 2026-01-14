@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An intelligent MCP (Model Context Protocol) server that gives AI assistants like Claude and Cursor deep understanding of your project through smart documentation management.
-
+  
 ## What is doc-bot?
 
 doc-bot is a documentation server that enhances AI coding assistants by providing:
